@@ -1,0 +1,24 @@
+{
+    "name": "BSC Test",
+    "timestamp": "2022-09-26T23:19:38.897566015Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://tryroll.com/wp-content/uploads/2018/11/cropped-icon-270x270.png",
+    "keywords": [
+      "bsc test"
+    ],
+    "tokens": [
+      {
+        "name": "TNT Token",
+        "address": "0x7F4f970DE7366e17D6f1f47A4977C56b0E5d478C",
+        "symbol": "TNT",
+        "decimals": 18,
+        "chainId": 97,
+        "logoURI": "https://roll-token.s3.amazonaws.com/1337/fd5f947e-302b-40af-9aa5-fd134e722a21"
+      }
+    ]
+  }
