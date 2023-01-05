@@ -14,11 +14,19 @@
     "tokens": [
       {
         "name": "TNT Token",
-        "address": "0x7F4f970DE7366e17D6f1f47A4977C56b0E5d478C",
-        "symbol": "TNT",
-        "decimals": 18,
-        "chainId": 97,
-        "logoURI": "https://roll-token.s3.amazonaws.com/1337/fd5f947e-302b-40af-9aa5-fd134e722a21"
+          "address": "0x7F4f970DE7366e17D6f1f47A4977C56b0E5d478C",
+          "symbol": "TNT",
+          "decimals": 18,
+          "chainId": 97,
+          "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+      },
+      {
+          "name": "USDC Token",
+          "address": "0xEcAc923fBa77F62BC8C74f316cbE78eC404b406E",
+          "symbol": "USDC",
+          "decimals": 18,
+          "chainId": 97,
+          "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
       }
     ]
   }
